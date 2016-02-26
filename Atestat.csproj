@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{15607EC3-13F0-4A45-88BB-A687EC08E00D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Atesat_v._1._1</RootNamespace>
+    <AssemblyName>Atesat v.1.1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Circle.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDescopera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDescopera.Designer.cs">
+      <DependentUpon>frmDescopera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInfo.Designer.cs">
+      <DependentUpon>frmInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaimuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaimuta.Designer.cs">
+      <DependentUpon>frmMaimuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMeniu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMeniu.Designer.cs">
+      <DependentUpon>frmMeniu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRata.Designer.cs">
+      <DependentUpon>frmRata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSnake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSnake.Designer.cs">
+      <DependentUpon>frmSnake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Input.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Utilizator.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDescopera.resx">
+      <DependentUpon>frmDescopera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInfo.resx">
+      <DependentUpon>frmInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaimuta.resx">
+      <DependentUpon>frmMaimuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMeniu.resx">
+      <DependentUpon>frmMeniu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRata.resx">
+      <DependentUpon>frmRata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSnake.resx">
+      <DependentUpon>frmSnake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mario-coin-300x300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snakeGameplay1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snakeGameplay2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tasteSnake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snakeGameplay.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\welcome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coin_NSMB2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snakeIMG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linie3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linie4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linie5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\break-b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitButton2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pixelated Coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12-Free-Vector-Illustration-Of-A-Question-Mark-Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sarpe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sarpe stuff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\egal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mare.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\egalR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mareR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\micR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\intreaba.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\renunta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joc nou.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iesire.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joc nou1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iesire1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maimliniute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selinterval.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\liniuta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xbutt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\startbutt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descopera1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descopera11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descopera2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12-Free-Vector-Illustration-Of-A-Question-Mark-Icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\happy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monkey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monkey-161532_640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light-blue-circle-md.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piq_139604_400x400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piq_139604_400x4001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prinde maimuta gameplay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spacejocnou.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spaceesc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light-blue-circle-md - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duck1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duck2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gun1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clouds-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gun2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EXPLOSION-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ratagameplay.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

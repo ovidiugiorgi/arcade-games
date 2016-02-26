@@ -1,0 +1,43 @@
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\bin\Debug\Atesat v.1.1.exe
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\bin\Debug\Atesat v.1.1.pdb
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.Form1.resources
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmMeniu.resources
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmSnake.resources
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.Properties.Resources.resources
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atestat.csproj.GenerateResource.Cache
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat v.1.1.exe
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat v.1.1.pdb
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmDescopera.resources
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atestat.csprojResolveAssemblyReference.cache
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmMaimuta.resources
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat v.1.1.exe
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat v.1.1.pdb
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\bin\Debug\Atesat v.1.1.exe
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\bin\Debug\Atesat v.1.1.pdb
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.Form1.resources
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmDescopera.resources
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmMaimuta.resources
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmMeniu.resources
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmSnake.resources
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.Properties.Resources.resources
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmRata.resources
+C:\Users\Ovidiu\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmInfo.resources
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmInfo.resources
+C:\Users\Elev\Desktop\Atesat v.1.1\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmRata.resources
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atesat v.1.1.exe
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atesat v.1.1.pdb
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\bin\Debug\Atesat v.1.1.exe
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\bin\Debug\Atesat v.1.1.pdb
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atestat.csprojResolveAssemblyReference.cache
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.Form1.resources
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmDescopera.resources
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmInfo.resources
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmMaimuta.resources
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmMeniu.resources
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmRata.resources
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.frmSnake.resources
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atesat_v._1._1.Properties.Resources.resources
+C:\Users\Ovidiu\Desktop\Atestat\Atesat v.1.1\obj\x86\Debug\Atestat.csproj.GenerateResource.Cache
